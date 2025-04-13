@@ -40,4 +40,68 @@ The React frontend will connect to a robust backend infrastructure, demonstratin
 - [ ] **Mobile Optimization**: Create and manage content on the go with a fully responsive mobile experience
 - [ ] **SEO-Friendly**: Maximize reach with built-in SEO tools and optimization suggestions
 
+## Package Dependencies
+
+### Core Dependencies
+- **React**: `react@19.0.0`, `react-dom@19.0.0`
+- **UI Framework**: `tailwindcss@4.1.3`
+- **HTTP Client**: `axios@1.8.4`
+- **Environment Variables**: `dotenv@16.5.0`
+- **Animation**: `framer-motion@12.6.5`
+
+### Editor.js Ecosystem
+- `@editorjs/attaches@1.3.0`
+- `@editorjs/checklist@1.6.0`
+- `@editorjs/code@2.9.3`
+- `@editorjs/delimiter@1.4.2`
+- `@editorjs/editorjs@2.30.8`
+- `@editorjs/embed@2.7.6`
+- `@editorjs/header@2.8.8`
+- `@editorjs/image@2.10.2`
+- `@editorjs/inline-code@1.5.1`
+- `@editorjs/link@2.6.2`
+- `@editorjs/list@2.0.6`
+- `@editorjs/marker@1.4.0`
+- `@editorjs/nested-list@1.4.3`
+- `@editorjs/quote@2.7.6`
+- `@editorjs/raw@2.5.1`
+- `@editorjs/simple-image@1.6.0`
+- `@editorjs/table@2.4.4`
+- `@editorjs/warning@1.4.1`
+
+### UI Components and Styling
+- `@radix-ui/react-slot@1.2.0`
+- `@tailwindcss/vite@4.1.3`
+- `class-variance-authority@0.7.1`
+- `clsx@2.1.1`
+- `tailwind-merge@3.2.0`
+- `tw-animate-css@1.2.5`
+
+### Icons and UI Elements
+- `@flaticon/flaticon-uicons@3.3.1`
+- `flaticon@0.1.0`
+- `lucide-react@0.488.0`
+- `react-icons@5.5.0`
+
+### Browser Compatibility
+- `os-browserify@0.3.0`
+- `path-browserify@1.0.1`
+
+### User Experience
+- `react-hot-toast@2.5.2`
+
+### Development Tools
+- `@eslint/js@9.21.0`
+- `@types/node@22.14.1`
+- `@types/react@19.0.10`
+- `@types/react-dom@19.0.4`
+- `@vitejs/plugin-react@4.3.4`
+- `eslint@9.21.0`
+- `eslint-plugin-react-hooks@5.1.0`
+- `eslint-plugin-react-refresh@0.4.19`
+- `globals@15.15.0`
+- `typescript@5.7.2`
+- `typescript-eslint@8.24.1`
+- `vite@6.2.0`
+
 This project will effectively showcase technical expertise in modern web development, particularly proficiency with React and its ecosystem. BlogWave will stand as a testament to the ability to architect and implement complex, user-friendly web applications using industry-standard technologies.
